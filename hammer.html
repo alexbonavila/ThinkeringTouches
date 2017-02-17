@@ -16,6 +16,16 @@
 <script src="node_modules/hammerjs/hammer.js"></script>
 <script>
 
+    var zone = document.getElementById('zone');
+
+    var hummerzone = new Hammer(zone);
+
+    hummerzone.on(
+        'swipperight', function (e) {
+            e.preventDefault();
+            console.log("swipperight");
+        }
+    )
 </script>
 </body>
 </html>
