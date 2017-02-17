@@ -1,0 +1,23 @@
+{
+  "name": "ThinkeringTouches",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexbonavila/ThinkeringTouches.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexbonavila/ThinkeringTouches/issues"
+  },
+  "homepage": "https://github.com/alexbonavila/ThinkeringTouches#readme",
+  "dependencies": {
+    "hammerjs": "^2.0.8"
+  }
+}
